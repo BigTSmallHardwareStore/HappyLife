@@ -182,7 +182,8 @@ CKEDITOR_CONFIGS = {
             'toolbar': [[
                 'Bold', 'Italic', 'Underline', '-', 'Link'
             ]],
-            'width': 'auto',
+            'width': '250%',
+            'enterMode': '2',
 
         },
 }
